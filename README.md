@@ -3,6 +3,16 @@
 Bem-vindo à sua trilha intensiva de **8 semanas** para dominar **Java SE + Spring Boot** e se tornar um **Java Developer Pró**.  
 Este repositório contém todo o plano de estudos, exercícios práticos e projetos semanais.
 
+___
+
+📌 Descrição do Projeto:
+Este repositório contém minha jornada intensiva de estudos em Java Development, organizada em um cronograma de 8 semanas. 
+O objetivo é evoluir dos fundamentos 
+da linguagem até o desenvolvimento de aplicações completas com Spring Boot, segurança, banco de dados e deploy em cloud, documentando cada etapa e 
+projeto desenvolvido. 🚀
+
+___
+
 ---
 
 ## 📑 Sumário
